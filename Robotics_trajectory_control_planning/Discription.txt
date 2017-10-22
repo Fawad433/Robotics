@@ -1,0 +1,20 @@
+PART 1 =>
+ 
+Main file : Original_part1
+Function file : Original_hermite
+
+PART 2 =>
+
+MAin file : Original_part2
+Fuction files : 
+Original_Rotation - seperates Rotation matrix from main .key file
+Original_Catmull - for position
+
+
+Note: Use Animate to run the code... Animate coding is made by DR.Maciejewski
+Add the trojectory and angle file in animate folder and it should run
+
+
+
+
+
